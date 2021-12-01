@@ -1,7 +1,8 @@
 # All
 For Listing all my Projects and Projects website Links
 
-**Here I will Linking my all Projects links by which everyone easily get Projects Links.** https://manish9823.github.io/All
+**Here I will Linking my all Projects links by which everyone easily get Projects Links.** <br>
+<a href="https://manish9823.github.io/All" target="_blank">https://manish9823.github.io/All</a>
  
 __________________________________
 
